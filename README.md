@@ -1,2 +1,1 @@
-# teaching_material
-Presentation for teaching
+This repository contains presentations and other files related to teaching.
